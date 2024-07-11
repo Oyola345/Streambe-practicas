@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    padding: 10px;
+}
+
+.color{
+    background-color: green;
+}
+
+.resaltado{
+    background-color: yellow;
+    color: red;
+}

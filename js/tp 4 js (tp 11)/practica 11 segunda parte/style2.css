@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+
+.oculto{
+    display: none;
+}
+
+.redondeadas{
+    max-width: 70%;
+    max-height: 70%;
+    border-radius: 30px;
+}
+
+.container{
+    display: grid;
+    grid-gap: 10px;
+}
