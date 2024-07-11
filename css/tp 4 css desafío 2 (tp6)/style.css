@@ -1,0 +1,118 @@
+body{
+    background-color: #f1fbd0;
+    font-family: "Titillium Web", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    grid-area: h1;
+    font-size: 40px;
+    color: #3d0814;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+    border-bottom: 7px solid #55414a;
+    width: 40%;
+}
+
+#container{
+    display: grid;
+    grid-column-gap: 15px;
+    grid-row-gap: 10px;
+    grid-template-areas:
+    "h1 h1 h1" 
+    "img1 img2 img3"
+    "img4 img5 img6"
+    "img7 img8 img9";
+    grid-template-rows: repeat(4, auto);
+    grid-template-columns: repeat(3, 1fr);
+    width: 80%;
+    margin: 0 auto;
+}
+
+img{
+    width: 100%;
+}
+
+#img1{
+    grid-area: img1;
+}
+
+#img2{
+    grid-area: img2;
+}
+
+#img3{
+    grid-area: img3;
+}
+
+#img4{
+    grid-area: img4;
+}
+
+#img5{
+    grid-area: img5;
+}
+
+#img6{
+    grid-area: img6;
+}
+
+#img7{
+    grid-area: img7;
+}
+
+#img8{
+    grid-area: img8;
+}
+
+#img9{
+    grid-area: img9;
+}
+
+.container--item{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.container--item > a{
+    color: transparent;
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.container--item:hover > a:hover{
+    text-decoration: underline;
+    color: #f1fbd0;
+}
+
+.container--item:hover > a{
+    background-color: rgba(0, 0, 0, 0.603);
+    color: azure;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.container--item:hover{
+    box-shadow: 0px 10px 20px 5px rgb(0 0 0)
+}
+
+footer{
+    margin-top: 12px;
+    background-color: #A1A17F;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 20px;
+}
+
+#contacto > a{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
