@@ -27,7 +27,7 @@ En este repositorio subiré los trabajos prácticos realizados para Streambe (Ge
 
 ## Construido con 🛠️
 
-* [HTML](https://www.w3.org/html/)
+* [HTML](https://html.spec.whatwg.org/multipage/)
 * [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 * [Bootstrap](https://getbootstrap.com/)
 * [JS](https://developer.mozilla.org/es/docs/Web/JavaScript)
