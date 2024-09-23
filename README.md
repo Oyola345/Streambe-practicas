@@ -25,12 +25,18 @@ En este repositorio subiré los trabajos prácticos realizados para Streambe (Ge
    - [`TP 11`](https://github.com/Oyola345/Streambe-practicas/tree/main/js/tp%204%20js%20(tp%2011)): Ejercicios de práctica de eventos de teclado y mouse.
    - [`TP 12`](https://github.com/Oyola345/Streambe-practicas/tree/main/js/tp%205%20js%20(tp%2012)): Juego de tipeado con cuenta atrás.
 
+- [`REACT.JS`](https://github.com/Oyola345/Streambe-practicas/tree/main/react%20js):
+   - [`TP 13`](https://github.com/Oyola345/Streambe-practicas/tree/main/react%20js/TP%201%20React%20(tp%2013)): Ejercicios con React.js de contador, cuadrado de un número ingresado y ejemplo de carrito y lista de productos.
+   - [`TP 14`](https://github.com/Oyola345/Streambe-practicas/tree/main/react%20js/TP%202%20React%20(tp%2014)/rick-morty-app): Lista y detalles de los personajes de Rick y Morty usando su API.
+
 ## Construido con 🛠️
 
 * [HTML](https://html.spec.whatwg.org/multipage/)
 * [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 * [Bootstrap](https://getbootstrap.com/)
 * [JS](https://developer.mozilla.org/es/docs/Web/JavaScript)
+* [REACT.JS](https://es.react.dev/)
+
 
 ## Autora
 Lea Oyola
