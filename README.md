@@ -28,6 +28,7 @@ En este repositorio subiré los trabajos prácticos realizados para Streambe (Ge
 - [`REACT.JS`](https://github.com/Oyola345/Streambe-practicas/tree/main/react%20js):
    - [`TP 13`](https://github.com/Oyola345/Streambe-practicas/tree/main/react%20js/TP%201%20React%20(tp%2013)): Ejercicios con React.js de contador, cuadrado de un número ingresado y ejemplo de carrito y lista de productos.
    - [`TP 14`](https://github.com/Oyola345/Streambe-practicas/tree/main/react%20js/TP%202%20React%20(tp%2014)/rick-morty-app): Lista y detalles de los personajes de Rick y Morty usando su API.
+   - [`TP 15`](https://github.com/Oyola345/Streambe-practicas/tree/main/react%20js/TP%203%20React%20(tp%2015)): Agregar una lista de productos disponibles, y utilizando Context para manejar aspectos básicos como cambiar el aspecto de la web (modo claro y oscuro).
 
 ## Construido con 🛠️
 
