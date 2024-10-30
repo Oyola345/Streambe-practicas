@@ -29,6 +29,10 @@ En este repositorio subiré los trabajos prácticos realizados para Streambe (Ge
    - [`TP 13`](https://github.com/Oyola345/Streambe-practicas/tree/main/react%20js/TP%201%20React%20(tp%2013)): Ejercicios con React.js de contador, cuadrado de un número ingresado y ejemplo de carrito y lista de productos.
    - [`TP 14`](https://github.com/Oyola345/Streambe-practicas/tree/main/react%20js/TP%202%20React%20(tp%2014)/rick-morty-app): Lista y detalles de los personajes de Rick y Morty usando su API.
    - [`TP 15`](https://github.com/Oyola345/Streambe-practicas/tree/main/react%20js/TP%203%20React%20(tp%2015)): Agregar una lista de productos disponibles, y utilizando Context para manejar aspectos básicos como cambiar el aspecto de la web (modo claro y oscuro).
+   - [`TP 16`](https://github.com/Oyola345/Streambe-practicas/tree/main/react%20js/TP%204%20React%20(tp%2016)): Crea una aplicación de carrito de compras donde los usuarios puedan agregar y eliminar productos del carrito. 
+
+- [`REPOSITORIO TRABAJO FINAL STAGE 2`](https://github.com/BautistaMoreno/PibardoSkins.io):
+   El trabajo final que realizamos fue una tienda de skins para el juego "Counter Strike"
 
 ## Construido con 🛠️
 
