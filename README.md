@@ -1,6 +1,6 @@
 ![Portada con título para el repositorio](https://github.com/Oyola345/Streambe-practicas/blob/main/portada%20tp%20streambe.png)
 <p align="center">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   <img src="https://img.shields.io/badge/STATUS-TERMINADO-green">
 </p>
 
 En este repositorio subiré los trabajos prácticos realizados para Streambe (Generación T) hasta la fecha.
